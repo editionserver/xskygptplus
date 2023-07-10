@@ -4,7 +4,7 @@ declare global {
   namespace NodeJS {
     interface ProcessEnv {
       OPENAI_API_KEY?: string;
-      CODE?: string;
+      CODE?: VIP;
       BASE_URL?: string;
       PROXY_URL?: string;
       VERCEL?: string;
