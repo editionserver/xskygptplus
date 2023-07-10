@@ -6,7 +6,7 @@ import { getClientConfig } from "./config/client";
 
 export const metadata = {
   title: "SkyGPT-Plus",
-  description: "SKY Blockchain Technologies",
+  description: "SKY Blockchain Technologiesx",
   viewport: {
     width: "device-width",
     initialScale: 1,
